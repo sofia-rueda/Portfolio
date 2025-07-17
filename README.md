@@ -9,7 +9,4 @@ Other projects from my summer program and coursework are maintained in separate 
 * [GCA\_DataAnalytics](https://github.com/sofia-rueda/GCA_DataAnalytics) — Summer Program Projects
 * [UTA-DS-KAGGLE-PROJECT](https://github.com/sofia-rueda/UTA-DS-KAGGLE-PROJECT) — Mushroom Classification Project
 
----
-
-If these URLs are correct, you can copy and paste as is! Otherwise, share your links and I’ll update.
 
