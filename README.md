@@ -2,7 +2,7 @@
 
 This portfolio highlights key projects, including:
 
-- [**Grammys**](https://github.com/sofia-rueda/Portfolio/tree/main/Grammys) — Website Traffic Analysis  
+- [`Grammys/`](./Grammys) — Website Traffic Analysis  
   Analysis of web analytics data around the Grammy.com site split. Includes user engagement trends and A/B testing insights.
 
 Other projects from my summer program and coursework are maintained in separate repositories:
