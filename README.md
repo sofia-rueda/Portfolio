@@ -10,7 +10,7 @@ This project focuses on building and evaluating machine learning models to class
 
 This project involves analyzing historical Grammy Awards data to reveal trends and insights related to award categories, artist nominations, and winners. The dataset was cleaned and preprocessed to facilitate exploratory data analysis and data visualization, uncovering shifts in genre popularity, patterns of recurring winners, and connections between awards and commercial success. Additionally, predictive modeling techniques were applied to forecast potential winners, showcasing skills in data wrangling, statistical analysis, and applied machine learning in an entertainment industry context.
 
-### Intel Energy Dashboard –
+### Intel Energy Dashboard –[Intel/](./Intel)
 
 This Tableau project was created in collaboration with Intel's Sustainability Team to support the selection of an optimal U.S. region for a new Intel data center. The interactive dashboards explore key energy metrics—net production, renewable energy percentages, hourly generation trends, and regional energy source breakdowns. Through visual analysis, regions like the Northwest and Central U.S. stood out for their high surplus and renewable capacity. This project demonstrates skills in data visualization, parameter filtering, calculated fields, and dashboard design for real-world decision-making.
 
