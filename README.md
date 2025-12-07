@@ -21,5 +21,6 @@ Other projects from my summer program and coursework are maintained in separate 
 - [GCA_DataAnalytics](https://github.com/sofia-rueda/GCA_DataAnalytics) — Summer Program Projects  
 - [UTA-DS-KAGGLE-PROJECT](https://github.com/sofia-rueda/UTA-DS-KAGGLE-PROJECT) — Mushroom Classification Project
 - [NLP-Project](https://github.com/sofia-rueda/NLP-Project)- IMDb Sentiment Analysis
+- [Computer-Vision](https://github.com/sofia-rueda/Computer-Vision) - Weather Image Classification
 
 
