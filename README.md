@@ -14,7 +14,9 @@ This project involves analyzing historical Grammy Awards data to reveal trends a
 
 This Tableau project was created in collaboration with Intel's Sustainability Team to support the selection of an optimal U.S. region for a new Intel data center. The interactive dashboards explore key energy metrics—net production, renewable energy percentages, hourly generation trends, and regional energy source breakdowns. Through visual analysis, regions like the Northwest and Central U.S. stood out for their high surplus and renewable capacity. This project demonstrates skills in data visualization, parameter filtering, calculated fields, and dashboard design for real-world decision-making.
 
-### Streaming Platform Content Analysis Using SQL - [SQL/](.SQL)
+
+## 2026 Monthly Projects
+### January: Streaming Platform Content Analysis Using SQL - [SQL/](.SQL)
 
 This project analyzes content catalogs from [Netflix](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv), [Hulu](https://www.kaggle.com/datasets/victorsoeiro/hulu-tv-shows-and-movies?select=titles.csv), [Disney+](https://www.kaggle.com/datasets/victorsoeiro/disney-tv-shows-and-movies?select=titles.csv), and [HBO](https://www.kaggle.com/datasets/victorsoeiro/hbo-max-tv-shows-and-movies?select=titles.csv) using SQL to compare content volume, structure, quality, and engagement characteristics. Publicly available metadata was used to examine title counts, movies versus TV shows, release trends, average runtimes, and audience reception based on IMDB scores and votes. Critically acclaimed content was defined using a combined threshold of high ratings and sufficient audience validation. The analysis highlights distinct platform strategies, including Netflix’s scale-driven approach, HBO’s quality-first model, Disney+’s curated family focus, and Hulu’s hybrid content strategy.
 
