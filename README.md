@@ -16,6 +16,9 @@ This Tableau project was created in collaboration with Intel's Sustainability Te
 
 ### Streaming Platform Content Analysis Using SQL - [SQL/](.SQL)
 
+This project analyzes content catalogs from [Netflix](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv), [Hulu](https://www.kaggle.com/datasets/victorsoeiro/hulu-tv-shows-and-movies?select=titles.csv), [Disney+](https://www.kaggle.com/datasets/victorsoeiro/disney-tv-shows-and-movies?select=titles.csv), and [HBO](https://www.kaggle.com/datasets/victorsoeiro/hbo-max-tv-shows-and-movies?select=titles.csv) using SQL to compare content volume, structure, quality, and engagement characteristics. Publicly available metadata was used to examine title counts, movies versus TV shows, release trends, average runtimes, and audience reception based on IMDB scores and votes. Critically acclaimed content was defined using a combined threshold of high ratings and sufficient audience validation. The analysis highlights distinct platform strategies, including Netflix’s scale-driven approach, HBO’s quality-first model, Disney+’s curated family focus, and Hulu’s hybrid content strategy.
+
+ 
 ---
 
 Other projects from my summer program and coursework are maintained in separate repositories: 
